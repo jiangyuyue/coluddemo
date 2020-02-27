@@ -1,0 +1,4 @@
+# Project exclude paths
+/eureka-server3/target/
+/user-service/target/
+/xiaofei2/target/
